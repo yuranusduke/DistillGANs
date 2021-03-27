@@ -148,6 +148,10 @@ Change hyper-parameters in run.sh, simply run
 
 ## Results
 
+**Note**: Though the results may not be as good as original paper due to my limited computation resource, they give us insight on 
+mechanism that how to compress GANs. However, you can try and tune hyper-parameters yourself!
+
+
 ### MNIST
 
 With `alpha_kdforgan=0.3` and `scale=0.1`, we get
