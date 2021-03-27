@@ -1,4 +1,4 @@
-# Reproduce <Compressing GANs using Knowledge Distillation>
+# Reproducing ***Compressing GANs using Knowledge Distillation***
 
 First of all, thank the authors very much for sharing this excellent paper ***<Compressing GANs using Knowledge Distillation>*** with us. This repository contains reproducing both training and testing code for the idea orginated from paper. If there are some bug problems in the 
 implementation, please send me an email at yuranusduke@163.com.
